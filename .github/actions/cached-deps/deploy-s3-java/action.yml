@@ -1,0 +1,5 @@
+name: 'Deploy S3 Java'
+description: 'Deploy Java artifacts to S3'
+runs:
+  using: 'node16'
+  main: 'main.js'
